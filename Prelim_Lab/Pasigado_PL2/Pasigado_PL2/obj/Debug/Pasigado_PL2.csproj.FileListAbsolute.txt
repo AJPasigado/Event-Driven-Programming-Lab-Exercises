@@ -1,0 +1,11 @@
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\bin\Debug\Pasigado_PL2.exe.config
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\bin\Debug\Pasigado_PL2.exe
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\bin\Debug\Pasigado_PL2.pdb
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.csprojResolveAssemblyReference.cache
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.Form1.resources
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.Properties.Resources.resources
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.csproj.GenerateResource.Cache
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.exe
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.pdb
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.Form2.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Pasigado_PL2\Pasigado_PL2\obj\Debug\Pasigado_PL2.Form3.resources

@@ -1,0 +1,9 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\bin\Debug\Pasigado_PL5.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\bin\Debug\Pasigado_PL5.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\bin\Debug\Pasigado_PL5.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.PL5Form1.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.csproj.GenerateResource.Cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL5\obj\Debug\Pasigado_PL5.PL5Form2.resources

@@ -1,0 +1,9 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\bin\Debug\Pasigado_BonusLab.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\bin\Debug\Pasigado_BonusLab.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\bin\Debug\Pasigado_BonusLab.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.csprojResolveAssemblyReference.cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.Form1.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.csproj.GenerateResource.Cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_BonusLab\obj\Debug\Pasigado_BonusLab.pdb

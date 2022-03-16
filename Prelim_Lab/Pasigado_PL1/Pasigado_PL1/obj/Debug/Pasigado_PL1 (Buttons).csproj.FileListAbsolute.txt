@@ -1,0 +1,3 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL1\Pasigado_PL1\bin\Debug\Pasigado_PL1.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL1\Pasigado_PL1\obj\Debug\Pasigado_PL1.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_PL1\Pasigado_PL1\obj\Debug\Pasigado_PL1.pdb

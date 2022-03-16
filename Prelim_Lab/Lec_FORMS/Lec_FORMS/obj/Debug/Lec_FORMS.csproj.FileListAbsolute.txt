@@ -1,0 +1,9 @@
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\Lec_FORMS\Lec_FORMS\bin\Debug\Lec_FORMS.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\bin\Debug\Lec_FORMS.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\bin\Debug\Lec_FORMS.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.Form1.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.FormSec.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.csproj.GenerateResource.Cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Lec_FORMS\Lec_FORMS\obj\Debug\Lec_FORMS.pdb

@@ -1,0 +1,9 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\bin\Debug\MyQPI.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\MyQPI.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\MyQPI.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\bin\Debug\MyQPI.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\bin\Debug\MyQPI.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\Pasigado_PL3 (MyQPI).csprojResolveAssemblyReference.cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\MyQPI.Form1.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\MyQPI.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\MyQPI\MyQPI\obj\Debug\Pasigado_PL3 (MyQPI).csproj.GenerateResource.Cache

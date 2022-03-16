@@ -1,0 +1,10 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\bin\Debug\Pasigado_EXAM.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\bin\Debug\Pasigado_EXAM.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\bin\Debug\Pasigado_EXAM.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.csprojResolveAssemblyReference.cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.ExamForm1.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.FormProfile.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.csproj.GenerateResource.Cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\Pasigado_EXAM\obj\Debug\Pasigado_EXAM.pdb

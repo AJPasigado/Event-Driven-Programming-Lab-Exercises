@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\PrelimLab.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\ForLabs.LabForm1.resources
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\ForLabs.ProfileForm.resources
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\ForLabs.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\PrelimLab.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\bin\Debug\ForLabs.exe.config
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\bin\Debug\ForLabs.exe
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\bin\Debug\ForLabs.pdb
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\ForLabs.exe
+D:\Documents\Visual Studio 2015\Projects\PrelimLabTry\ForLabs\obj\Debug\ForLabs.pdb

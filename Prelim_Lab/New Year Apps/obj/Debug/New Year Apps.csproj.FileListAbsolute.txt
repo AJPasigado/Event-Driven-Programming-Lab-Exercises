@@ -1,0 +1,11 @@
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\bin\Debug\New Year Apps.exe.config
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\bin\Debug\New Year Apps.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\bin\Debug\New Year Apps.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New Year Apps.csprojResolveAssemblyReference.cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New_Year_Apps.Contacts.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New_Year_Apps.ContactsNew.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New_Year_Apps.Properties.Resources.resources
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New Year Apps.csproj.GenerateResource.Cache
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New Year Apps.exe
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New Year Apps.pdb
+C:\Users\ajbpasigado\Documents\Visual Studio 2015\Projects\Prelim_Lab\New Year Apps\obj\Debug\New_Year_Apps.Notes.resources

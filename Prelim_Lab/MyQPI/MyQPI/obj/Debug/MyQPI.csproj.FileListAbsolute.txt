@@ -1,0 +1,9 @@
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\bin\Debug\MyQPI.exe.config
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\bin\Debug\MyQPI.exe
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\bin\Debug\MyQPI.pdb
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.csprojResolveAssemblyReference.cache
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.Form1.resources
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.Properties.Resources.resources
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.csproj.GenerateResource.Cache
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.exe
+c:\users\ajbpasigado\documents\visual studio 2015\Projects\MyQPI\MyQPI\obj\Debug\MyQPI.pdb
